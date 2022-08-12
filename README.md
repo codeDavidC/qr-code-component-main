@@ -1,6 +1,8 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+![Web design layout of front end mentor QR Code Component Solution](./design/desktop-design.jpg)
+
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H){target="_blank"}. Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -31,25 +33,29 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
+
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://codedavidc.github.io/qr-code-component-main/](https://codedavidc.github.io/qr-code-component-main/)
+
 
 ## My process
+
+I first drew the containers for each element on the page to provide a visualization of how everything is structured before I code. You can see this below:
+
+![Web page design with drawn out box containers](./design/Container%20Outline.jpg)
+
 
 ### Built with
 
 - Semantic HTML5 markup
 - CSS custom properties
+- BEM CSS class naming convention
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
 
@@ -71,9 +77,6 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Continued development
 
@@ -81,23 +84,18 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 **Note: Delete this note and the content within this section and replace with your own plans for continued development.**
 
+
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [The Net Ninja's CSS Grid Tutorial Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY) - get a better understanding of CSS Grid and apply it to this project.
+- [Get started with GitHub and Git | Quick Beginner Tutorial](https://www.youtube.com/watch?v=lK5NsSBjSFs) - After I refreshed my memory with GitHub and Git I made this video which helped me reinforced what I learned and apply it to my projects.
+- [BEM in CSS Tutorial](https://www.youtube.com/watch?v=N1TYlM0GA5E) - This video helped me get more insight on how to use BEM to write well structured, easy to read CSS.
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Website - [designsdavidc.com](https://www.designsdavidc.com)
+- LinkedIn - [davidChavezDesign](https://www.linkedin.com/in/davidchavezdesign/)
+- Frontend Mentor - [@codeDavidC](https://www.frontendmentor.io/profile/codeDavidC)
+- Instagram - [@designsDavidC](https://www.instagram.com/designsdavidc/)
+- Behance - [davidchavez2020](https://www.behance.net/davidchavez2020)
