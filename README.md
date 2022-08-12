@@ -90,6 +90,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 - [The Net Ninja's CSS Grid Tutorial Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY) - get a better understanding of CSS Grid and apply it to this project.
 - [Get started with GitHub and Git | Quick Beginner Tutorial](https://www.youtube.com/watch?v=lK5NsSBjSFs) - After I refreshed my memory with GitHub and Git I made this video which helped me reinforced what I learned and apply it to my projects.
 - [BEM in CSS Tutorial](https://www.youtube.com/watch?v=N1TYlM0GA5E) - This video helped me get more insight on how to use BEM to write well structured, easy to read CSS.
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) - This Source helped me create this markdown and understand how MD Syntax works. 
 
 
 ## Author
