@@ -40,7 +40,9 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ## My process
 
-I first drew the containers for each element on the page to provide a visualization of how everything is structured before I code. You can see this below:
+I created an XD File before coding to create a prototype of the design [qr-code-component.xd](https://xd.adobe.com/view/dba42128-ab88-4ebc-b562-51fb63f8c2aa-8ef7/)
+
+I also drew the containers for each element on the page to provide a visualization of how everything is structured before I code. You can see this below:
 
 ![Web page design with drawn out box containers](./design/Container%20Outline.jpg)
 
@@ -51,7 +53,6 @@ I first drew the containers for each element on the page to provide a visualizat
 - CSS custom properties
 - BEM CSS class naming convention
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 
