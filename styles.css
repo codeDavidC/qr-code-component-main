@@ -3,7 +3,7 @@
 :root {
     --clr-white: hsl(0, 0%, 100%);
     --clr-light-gray: hsl(0, 0%, 56%);
-    --clr-grayish-blue: hsl(208, 56%, 80%);
+    --clr-grayish-blue: hsl(212, 30%, 89%);
     --clr-dark-blue: hsl(217, 45%, 22%);
 
     --ff-primary: 'Outfit', sans-serif;
@@ -90,29 +90,29 @@ select {
 /* Utility Classes */
 
 body {
+    width: 100%;
+    padding-top: 84px;
     background-color:var(--clr-grayish-blue);
-    display: grid;
-    grid grid-template-rows: 1fr 10px;
-
 }
 
 main {
-  align-self: center;
-  display: grid;
-  grid-template-columns: 1fr 320px 1fr;
-}
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  }
 
 .card {
-  /* margin: 1rem; */
+    max-width: 320px;
+    margin: 0 1.68rem 0;
     padding: 1rem;
-    border-radius: 10px;
+    border-radius: 21px;
     background-color: var(--clr-white);
-    box-shadow: 0px 0px 15px 15px rgba(31, 50, 81, .1);
-    grid-column-start: 2;
+    box-shadow: 0px 16px 32px rgba(0, 0, 0, 0.1);
 }
 
 .card__img {
-    border-radius: 10px;
+    width: 100%;
+    border-radius: 9px;
 }
 
 .card__title {
@@ -122,6 +122,7 @@ main {
     color: var(--clr-dark-blue);
     text-align: center;
     padding-top: 1rem;
+    line-height: 1.8rem;
 }
 
 .card__text {
@@ -134,10 +135,10 @@ main {
 }
 
 .attribution { 
-  grid-row-start: 2;
   font-family: var(--ff-body);
   font-size: 11px; 
   text-align: center; 
+  padding-top: 100px;
 }
 .attribution a { 
   color: hsl(228, 45%, 44%); 
