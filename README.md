@@ -3,17 +3,16 @@
 ![Web design layout of front end mentor QR Code Component Solution](./design/desktop-design.jpg)
 ![Web page design with drawn out box containers](./design/Container%20Outline.jpg)
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 ## Table of contents
 
 - [Overview](#overview)
   - [Links](#links)
-- [My process](#my-process)
+- [My process and what I've learned](#my-process-and-what-i-learned)
   - [Built with](#built-with)
+  - [Continued development and resources](#continued-development-and-resources)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 
@@ -21,18 +20,14 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- XD Prototype: [qr-code-component.xd](https://xd.adobe.com/view/dba42128-ab88-4ebc-b562-51fb63f8c2aa-8ef7/)
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- XD Prototype: [https://xd.adobe.com/view/dba42128-ab88-4ebc-b562-51fb63f8c2aa-8ef7/](https://xd.adobe.com/view/dba42128-ab88-4ebc-b562-51fb63f8c2aa-8ef7/)
+- Solution URL: [https://codedavidc.github.io/qr-code-component-main/](https://codedavidc.github.io/qr-code-component-main/)
 - Live Site URL: [https://codedavidc.github.io/qr-code-component-main/](https://codedavidc.github.io/qr-code-component-main/)
 
 
-## My process and what I've learned
+## My process and what I learned
 
-I created an XD File before coding to create a prototype of the design [qr-code-component.xd](https://xd.adobe.com/view/dba42128-ab88-4ebc-b562-51fb63f8c2aa-8ef7/)
-
-I also drew the containers for each element on the page to provide a visualization of how everything is structured before I code. You can see this below:
-
-
+I created an XD File before coding to create a prototype of the design. I also drew the containers for each element on the page to provide a visualization of how everything is structured before I code.
 
 
 ### Built with
@@ -62,12 +57,9 @@ const proudOfThisFunc = () => {
 ```
 
 
-### Continued development
+### Continued development and resources
 
 In the future, I want to be able to work faster and create nav bars with fluidly using flexbow. 
-
-
-### Useful resources 
 
 - [The Net Ninja's CSS Grid Tutorial Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9itC4TxYMzFCfveyutyPOCY) - get a better understanding of CSS Grid and apply it to this project.
 - [Get started with GitHub and Git | Quick Beginner Tutorial](https://www.youtube.com/watch?v=lK5NsSBjSFs) - After I refreshed my memory with GitHub and Git I made this video which helped me reinforced what I learned and apply it to my projects.
